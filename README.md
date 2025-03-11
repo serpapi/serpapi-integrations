@@ -20,6 +20,7 @@ Resources on using SerpApi with no-code tools:
 - [n8n with SerpApi - Hotel Price tracker](https://serpapi.com/blog/making-a-hotel-price-tracker-with-google-hotels-and-n8n/)
 - [Zapier with SerpApi](https://serpapi.com/blog/adding-serpapi-to-a-zap-in-zapier/)
 - [Make.com and Airtable - Scrape Google search results into Airtable](https://serpapi.com/blog/how-to-scrape-google-results-into-airtable/)
+- [Pipedream with SerpApi](https://pipedream.com/apps/serpapi)
 
 
 ## AI models Integration
