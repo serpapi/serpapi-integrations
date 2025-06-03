@@ -17,6 +17,7 @@ Resources on using SerpApi with no-code tools:
 - [NoCodeSerpApi: 100% No-Code Tool](https://nocodeserpapi.com/)
 - [Make.com with SerpApi](https://serpapi.com/blog/announcing-serpapis-make-app/)
 - [Bubble with SerpApi](https://serpapi.com/blog/introducing-serpapis-bubble-plugin/)
+- [n8n - SerpApi official node](https://serpapi.com/blog/boost-your-n8n-workflows-with-serpapis-verified-node/) 
 - [n8n with SerpApi - Hotel Price tracker](https://serpapi.com/blog/making-a-hotel-price-tracker-with-google-hotels-and-n8n/)
 - [Zapier with SerpApi](https://serpapi.com/blog/adding-serpapi-to-a-zap-in-zapier/)
 - [Make.com and Airtable - Scrape Google search results into Airtable](https://serpapi.com/blog/how-to-scrape-google-results-into-airtable/)
